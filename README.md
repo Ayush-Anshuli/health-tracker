@@ -76,6 +76,15 @@ ng build
 The build artifacts will be stored in the `dist/` directory.</p>
 
 
+## Screenshots
+
+![](https://github.com/Ayush-Anshuli/health-tracker/blob/main/Screenshot%202024-07-29%20125117.png)
+
+![](https://github.com/Ayush-Anshuli/health-tracker/blob/main/Screenshot%202024-07-29%20125153.png)
+
+
+
+
 <h3> Contact</h3>
 
 For any questions, please contact [ayushanshuli89@gmail.com](mailto:ayushanshuli89@gmail.com).
